@@ -101,16 +101,16 @@ scipy>=1.9.0
 
 **Clone the repository:**
 ```bash
-git clone https://github.com/your-username/teen-mental-health-eda.git
+git clone https://github.com/Gufrilfirdaus/Teen-Mental-Health-EDA.git
 cd teen-mental-health-eda
 ```
 
 **Launch the notebook:**
 ```bash
-jupyter notebook Teen_Mental_Health.ipynb
+jupyter notebook teen-mental-health-eda.ipynb
 ```
 
-Or open directly on **[Kaggle](#)** *(add your Kaggle link here)*.
+Or open directly on **[Kaggle](#)** **((https://www.kaggle.com/mgufrilfirdaus))**
 
 ---
 
@@ -151,7 +151,7 @@ Early intervention at any single point — especially sleep — may help prevent
 ## 👤 Author
 
 **MUHAMMAD GUFRIL FIRDAUS**
-- Kaggle: @M Gufril Firdaus(#)
+- Kaggle: @mgufrilfirdaus(#)
 - LinkedIn: Muhammad Gufril Firdaus(#)
 - GitHub: Gufrilfirdaus(#)
 
