@@ -150,10 +150,10 @@ Early intervention at any single point — especially sleep — may help prevent
 
 ## 👤 Author
 
-**[Your Name]**
-- Kaggle: [@your-kaggle-username](#)
-- LinkedIn: [your-linkedin](#)
-- GitHub: [@your-github-username](#)
+**MUHAMMAD GUFRIL FIRDAUS**
+- Kaggle: @M Gufril Firdaus(#)
+- LinkedIn: Muhammad Gufril Firdaus(#)
+- GitHub: Gufrilfirdaus(#)
 
 ---
 
