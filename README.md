@@ -34,7 +34,7 @@ The analysis goes beyond visualization by incorporating **statistical hypothesis
 ```
 teen-mental-health-eda/
 │
-├── Teen_Mental_Health.ipynb    # Main analysis notebook
+├── teen-mental-health-eda.ipynb    # Main analysis notebook
 ├── Teen_Mental_Health_Dataset.csv  # Dataset
 ├── README.md                   # This file
 └── requirements.txt            # Python dependencies
